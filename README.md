@@ -1,1 +1,1 @@
-# Cl-nica-M-dica.c
+# Clinica-Medica.c
