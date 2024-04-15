@@ -1,0 +1,4 @@
+CRM: def456, Médico: , CPF: 12345678901, Paciente: Ana Silva, Data: 24/03/2024
+CRM: ghi789, Médico: Dr. Marcelo Silva, CPF: 98765432109, Paciente: João Santos, Data: 25/03/2024
+CRM: jkl012, Médico: Dra. Juliana Ferreira, CPF: 45678912365, Paciente: Maria Oliveira, Data: 26/03/2024
+CRM: mno345, Médico: Dr. Roberto Santos, CPF: 32165498730, Paciente: Luiz Fernandes, Data: 27/03/2024

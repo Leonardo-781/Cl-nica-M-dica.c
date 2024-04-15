@@ -1,0 +1,8 @@
+Geral
+def456,Dra. Ana Carolina,35,12500.000000,Cardiologista
+ghi789,Dr. Marcelo Silva,52,13500.000000,Oncologista
+jkl012,Dra. Juliana Ferreira,38,13000.000000,Pediatra
+mno345,Dr. Roberto Santos,47,14000.000000,Ortopedista
+abc1234,Larissa,43,14502.000000,Clinico
+Geral
+,,0,0.000000,
